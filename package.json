@@ -1,0 +1,27 @@
+{
+  "name": "practice-amazon-product-advertising-api-5.0",
+  "description": "Practice Amazon Product Advertising API 5.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Neo <neos21@gmail.com> (http://neo.s21.xrea.com/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/practice-amazon-product-advertising-api-5.0#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/practice-amazon-product-advertising-api-5.0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neos21/practice-amazon-product-advertising-api-5.0/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  },
+  "dependencies": {
+    "amazon-paapi": "1.0.3",
+    "dotenv": "8.2.0"
+  }
+}
